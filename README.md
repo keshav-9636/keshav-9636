@@ -12,7 +12,6 @@ I'm **Keshav Kothari**, an aspiring **Data Analyst** passionate about uncovering
 ### 📫 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/kotharikeshav/) | 📝 [Portfolio](https://github.com/keshav-9636/Portfolio) | ✉️ [Email](keshav.kothari.9636@gmail.com)
 
-![Visitor Count](https://profile-counter.glitch.me/{keshav-9636}/count.svg)
 
 
 <!--
