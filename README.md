@@ -10,7 +10,7 @@ I'm **Keshav Kothari**, an aspiring **Data Analyst** passionate about uncovering
 🔹 Building a **freelance client base** to apply my skills in real-world projects  
 
 ### 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/kotharikeshav/) | 📝 [Portfolio](https://github.com/keshav-9636/Portfolio) | ✉️ [Email](keshav.kothari.9636@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/kotharikeshav/) | 📝 [Portfolio](https://codebasics.io/portfolio/Keshav-Kothari) | ✉️ [Email](keshav.kothari.9636@gmail.com)
 
 
 
